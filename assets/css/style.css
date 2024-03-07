@@ -501,3 +501,7 @@ h6,
 .social a:hover {
   color: #000;
 }
+
+.zap {
+  text-decoration: underline;
+}
